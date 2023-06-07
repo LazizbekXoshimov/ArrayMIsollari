@@ -1,0 +1,15 @@
+C:\Users\Windows10\source\repos\ArrayMIsollari\Misol2\bin\Debug\net6.0\Misol2.exe
+C:\Users\Windows10\source\repos\ArrayMIsollari\Misol2\bin\Debug\net6.0\Misol2.deps.json
+C:\Users\Windows10\source\repos\ArrayMIsollari\Misol2\bin\Debug\net6.0\Misol2.runtimeconfig.json
+C:\Users\Windows10\source\repos\ArrayMIsollari\Misol2\bin\Debug\net6.0\Misol2.dll
+C:\Users\Windows10\source\repos\ArrayMIsollari\Misol2\bin\Debug\net6.0\Misol2.pdb
+C:\Users\Windows10\source\repos\ArrayMIsollari\Misol2\obj\Debug\net6.0\Misol2.csproj.AssemblyReference.cache
+C:\Users\Windows10\source\repos\ArrayMIsollari\Misol2\obj\Debug\net6.0\Misol2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\source\repos\ArrayMIsollari\Misol2\obj\Debug\net6.0\Misol2.AssemblyInfoInputs.cache
+C:\Users\Windows10\source\repos\ArrayMIsollari\Misol2\obj\Debug\net6.0\Misol2.AssemblyInfo.cs
+C:\Users\Windows10\source\repos\ArrayMIsollari\Misol2\obj\Debug\net6.0\Misol2.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\ArrayMIsollari\Misol2\obj\Debug\net6.0\Misol2.dll
+C:\Users\Windows10\source\repos\ArrayMIsollari\Misol2\obj\Debug\net6.0\refint\Misol2.dll
+C:\Users\Windows10\source\repos\ArrayMIsollari\Misol2\obj\Debug\net6.0\Misol2.pdb
+C:\Users\Windows10\source\repos\ArrayMIsollari\Misol2\obj\Debug\net6.0\Misol2.genruntimeconfig.cache
+C:\Users\Windows10\source\repos\ArrayMIsollari\Misol2\obj\Debug\net6.0\ref\Misol2.dll
